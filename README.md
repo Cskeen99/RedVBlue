@@ -1,8 +1,9 @@
 # RedVBlue
-Please visit the following to see my project:
 
-https://drive.google.com/file/d/1lBB0zzuV1Z1yvDpDqughBQKGeCZHo0pN/view?usp=sharing
+This is demonstration of the interchangeable skillsets a cyber security analyst must posses in order to effectively operate inside a network and systems infrastructure.
 
-Thank you,
+The following files consists of 3 reports with a slide show presentation showing in-depth discovery and analysis.
+
+Thank you for your time,
 
 Chad.
