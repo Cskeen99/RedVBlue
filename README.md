@@ -1,2 +1,8 @@
 # RedVBlue
-Showcase of black and white hat skills in a simple Red V.S. Blue project.
+Please visit the following to see my project:
+
+https://drive.google.com/file/d/1lBB0zzuV1Z1yvDpDqughBQKGeCZHo0pN/view?usp=sharing
+
+Thank you,
+
+Chad.
